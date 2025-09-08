@@ -3,7 +3,7 @@ async function register() {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({
-email: "shraddhaagnihotri729@gmail.com",
+email: "shraddhaagnihotri529@gmail.com",
 name: "Shraddha Agnihotri",
 mobileNo:"6386472980",
 githubUsername: "ShraddhaAgni3",
